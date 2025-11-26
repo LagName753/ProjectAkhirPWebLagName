@@ -1,0 +1,28 @@
+.customwidget li i,
+.navbar-nav span {
+    color: #0056b3 !important;
+}
+
+.lead strong,
+.icon-wrapper:hover a,
+a:hover,
+a:focus {
+    color: #004494;
+}
+
+.grd1,
+.icon_wrap:hover,
+.nav-pills > li.active > a,
+.btn-light:hover,
+.newsletter-form .mc-submit {
+    background: #0056b3 !important;
+    color: #ffffff !important;
+    background-image: none !important;
+    border-color: #0056b3 !important;
+}
+
+.grd1:hover,
+.grd1:focus {
+    background: #004494 !important;
+    background-image: none !important;
+}
